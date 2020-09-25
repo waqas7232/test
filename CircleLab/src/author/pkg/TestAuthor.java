@@ -3,7 +3,7 @@ package author.pkg;
 public class TestAuthor {
 
 	public static void main(String[] args) {
-
+//testing
 		Author ahTeck = new Author("Tan Ah Teck", "ahteck@nowhere.com", 'm');
 		System.out.println(ahTeck); // Author's toString()
 		Book dummyBook = new Book("Java for dummy", ahTeck, 19.95, 99); 
